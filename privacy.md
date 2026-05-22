@@ -1,6 +1,6 @@
 # Privacy Policy — Comeback Lab
 
-_Last updated: 2026-05-20_
+_Last updated: 2026-05-22_
 
 Comeback Lab is built around a simple promise: **what happens on your phone stays on your phone.**
 
